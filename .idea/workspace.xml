@@ -7,14 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c637505-db15-4a6b-a755-c1af50b0e532" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/abdur/android/galleryproject/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/abdur/android/galleryproject/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/abdur/android/galleryproject/ViewImage.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/abdur/android/galleryproject/ViewImage.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_image.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_image.xml" />
-      <change beforePath="$PROJECT_DIR$/tugasBesar.iml" afterPath="$PROJECT_DIR$/tugasBesar.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
